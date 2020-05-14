@@ -8,6 +8,7 @@ COVID-19 Charts WebApp
 * [Vorbereitung COVID-19 Daten](#vorbereitung-covid-19-daten)
 * [COVID-19 WebApp](#covid-19-webapp)
 * [Summary](#summary)
+* [Wie es weiter geht](future.md)
 
 
 ## Einleitung
