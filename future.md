@@ -3,9 +3,9 @@
 Wie es weiter geht:
 ===================
 
-* 15. März 2020: Beginn inoffizieller Shutdown & Schließung Schulen
-* 22. März 2020: Beginn offizieller Shutdown & Kontaktbeschränkungen
-* 27. April 2020: Beginn schrittweiser Lockerungen & Maskenpflicht beim Einkaufen und im ÖPNV
+* 15.03.2020: Beginn inoffizieller Shutdown & Schließung Schulen
+* 22.03.2020: Beginn offizieller Shutdown & Kontaktbeschränkungen
+* 27.04.2020: Beginn schrittweiser Lockerungen & Maskenpflicht beim Einkaufen und im ÖPNV
 
 
 ### Charts per 13. Mai 2020
