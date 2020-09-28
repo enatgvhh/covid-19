@@ -8,14 +8,14 @@ Wie es weiter geht:
 * 27.04.2020: Beginn schrittweiser Lockerungen & Maskenpflicht beim Einkaufen und im ÖPNV
 * 15.06.2020: Reisewarnung und Grenzkontrollen innerhalb der Europäischen Union aufgehoben
 * 22.06.2020: Beginn Sommerferien und Reisezeit
-* 22.07.2020: Beginn der 2. kleinen Welle durch Reiserückkehrer
+* 22.07.2020: Beginn der 2. Welle durch Reiserückkehrer
 
-### Charts per 30. August 2020
+### Charts per 27. September 2020
 
-![chart_hh_2020_08_30.jpg](img/chart_hh_2020_08_30.jpg)
-
-
-![chart_mv_2020_08_30.jpg](img/chart_mv_2020_08_30.jpg)
+![chart_hh_2020_09_27.jpg](img/chart_hh_2020_09_27.jpg)
 
 
-![chart_sh_2020_08_30.jpg](img/chart_sh_2020_08_30.jpg)
+![chart_mv_2020_09_27.jpg](img/chart_mv_2020_09_27.jpg)
+
+
+![chart_sh_2020_09_27.jpg](img/chart_sh_2020_09_27.jpg)
