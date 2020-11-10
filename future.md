@@ -11,12 +11,12 @@ Wie es weiter geht:
 * 01.10.2020: Die zweite Welle nimmt Fahrt auf
 * 02.11.2020: Beginn Teil-Lockdown für ganz Deutschland
 
-### Charts per 5. November 2020
+### Charts per 9. November 2020
 
-![chart_hh_2020_11_05.jpg](img/chart_hh_2020_11_05.jpg)
-
-
-![chart_mv_2020_11_05.jpg](img/chart_mv_2020_11_05.jpg)
+![chart_hh_2020_11_09.jpg](img/chart_hh_2020_11_09.jpg)
 
 
-![chart_sh_2020_11_05.jpg](img/chart_sh_2020_11_05.jpg)
+![chart_mv_2020_11_09.jpg](img/chart_mv_2020_11_09.jpg)
+
+
+![chart_sh_2020_11_09.jpg](img/chart_sh_2020_11_09.jpg)
